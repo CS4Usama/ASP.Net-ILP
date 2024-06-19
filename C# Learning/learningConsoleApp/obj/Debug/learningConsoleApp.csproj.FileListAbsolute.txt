@@ -1,0 +1,14 @@
+C:\Users\preci\Downloads\Programs\mvsConsoleApp\learningConsoleApp\bin\Debug\learningConsoleApp.exe.config
+C:\Users\preci\Downloads\Programs\mvsConsoleApp\learningConsoleApp\bin\Debug\learningConsoleApp.exe
+C:\Users\preci\Downloads\Programs\mvsConsoleApp\learningConsoleApp\bin\Debug\learningConsoleApp.pdb
+C:\Users\preci\Downloads\Programs\mvsConsoleApp\learningConsoleApp\obj\Debug\learningConsoleApp.csproj.AssemblyReference.cache
+C:\Users\preci\Downloads\Programs\mvsConsoleApp\learningConsoleApp\obj\Debug\learningConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\preci\Downloads\Programs\mvsConsoleApp\learningConsoleApp\obj\Debug\learningConsoleApp.exe
+C:\Users\preci\Downloads\Programs\mvsConsoleApp\learningConsoleApp\obj\Debug\learningConsoleApp.pdb
+C:\Users\preci\Downloads\MEmu Download\mvsConsoleApp\learningConsoleApp\obj\Debug\learningConsoleApp.csproj.AssemblyReference.cache
+C:\Users\preci\Downloads\MEmu Download\mvsConsoleApp\learningConsoleApp\obj\Debug\learningConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\preci\Downloads\MEmu Download\mvsConsoleApp\learningConsoleApp\obj\Debug\learningConsoleApp.exe
+C:\Users\preci\Downloads\MEmu Download\mvsConsoleApp\learningConsoleApp\obj\Debug\learningConsoleApp.pdb
+C:\Users\preci\Downloads\MEmu Download\mvsConsoleApp\learningConsoleApp\bin\Debug\learningConsoleApp.exe.config
+C:\Users\preci\Downloads\MEmu Download\mvsConsoleApp\learningConsoleApp\bin\Debug\learningConsoleApp.exe
+C:\Users\preci\Downloads\MEmu Download\mvsConsoleApp\learningConsoleApp\bin\Debug\learningConsoleApp.pdb

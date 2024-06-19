@@ -1,0 +1,11 @@
+C:\Users\preci\Downloads\MEmu Download\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.deps.json
+C:\Users\preci\Downloads\MEmu Download\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.dll
+C:\Users\preci\Downloads\MEmu Download\Bulky\Bulky.Models\bin\Debug\net8.0\Bulky.Models.pdb
+C:\Users\preci\Downloads\MEmu Download\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preci\Downloads\MEmu Download\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfoInputs.cache
+C:\Users\preci\Downloads\MEmu Download\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.AssemblyInfo.cs
+C:\Users\preci\Downloads\MEmu Download\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.CoreCompileInputs.cache
+C:\Users\preci\Downloads\MEmu Download\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.dll
+C:\Users\preci\Downloads\MEmu Download\Bulky\Bulky.Models\obj\Debug\net8.0\refint\Bulky.Models.dll
+C:\Users\preci\Downloads\MEmu Download\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.pdb
+C:\Users\preci\Downloads\MEmu Download\Bulky\Bulky.Models\obj\Debug\net8.0\ref\Bulky.Models.dll

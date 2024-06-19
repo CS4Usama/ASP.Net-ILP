@@ -1,0 +1,8 @@
+/.git
+/.github
+
+/Bulky/.vs/
+/Bulky/BulkyWeb/appsettings.json
+/Bulky/BulkyWeb/appsettings.Production.json
+/Bulky/BulkyWeb/bin/Debug/net8.0/appsettings.json
+/Bulky/BulkyWeb/bin/Debug/net8.0/appsettings.Production.json
